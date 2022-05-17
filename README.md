@@ -16,31 +16,25 @@ Exercise sessions present in this repo:
 
 - Exercise sessions:
 
-    - [Exercise Session 1](ES1) 
-    - [Exercise Session 2](ES2) 
-    - [Exercise Session 3](ES3) 
-    - [Exercise Session 3](ES3) 
-    - [Exercise Session 4](ES4)
-    - [Exercise Session 5](ES5)
-    - [Exercise Session 6](ES6)
+  - [Exercise Session 1](ES1)
+  - [Exercise Session 2](ES2)
+  - [Exercise Session 3](ES3)
+  - [Exercise Session 3](ES3)
+  - [Exercise Session 4](ES4)
+  - [Exercise Session 5](ES5)
+  - [Exercise Session 6](ES6)
 
 - Graded exercise sessions:
 
-    - [Graded Exercise 1](GE1)
-    - [Graded Exercise 2](GE2)
+  - [Graded Exercise 1](GE1)
+  - [Graded Exercise 2](GE2)
 
 - Example Graded exercise sessions:
 
-    - [Graded Exercise X](GEX)
+  - [Graded Exercise X](GEX)
 
 - Support material:
 
-    - [Support material](Support_material) with python cheatsheets and a notebook to show you how to get documentation from any function without having to look up the documentation online.
+  - [Support material](Support_material) with python cheatsheets and a notebook to show you how to get documentation from any function without having to look up the documentation online.
 
 Each folder includes the original exercise (`es1.ipynb`), the answers to the exercise (`es1_answers.ipynb`) and my solution (`es1_albert.ipynb`).
-
-Grade for [Graded Exercise 1](GE1): 100%
-
-Grade for [Graded Exercise 2](GE2): 
-
-Course Grade: 
