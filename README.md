@@ -27,7 +27,7 @@ Exercise sessions present in this repo:
 - Graded exercise sessions:
 
   - [Graded Exercise 1](GE1)
-  - [Graded Exercise 2](GE2)
+  - [Graded Exercise 2](GE2) (unfinished)
 
 - Example Graded exercise sessions:
 
